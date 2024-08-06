@@ -1,0 +1,12 @@
+[x] - start
+[x] - информация 
+[x] - ссылки
+[x] - GsapTo
+[x] - GsapFrom
+[x] - GsapFromTo
+[x] - GsapTimeline
+[x] - GsapStager 
+[x] - GsapScrollTigger
+[x] - GsapText
+
+enpoints:
